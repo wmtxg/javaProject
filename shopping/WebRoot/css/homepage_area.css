@@ -1,0 +1,55 @@
+
+.homepage_area{
+	position:relative;
+	color:#000;
+	width:1310px;
+	height:1000px
+}
+
+.homepage_bar_level{ 
+	position:absolute;
+	left:0px;
+	top:0px;
+	background:#C9C9C9;
+	width:1310px;
+	height:50px;
+}
+
+.homepage_navi_level{ 
+	position:absolute;
+	left:0px;
+	top:50px;
+	border:2px solid #008080;
+	background:#FFFFFF;
+	width:240px;
+	height:1100px
+}
+
+.homepage_main_level{ 
+	position:absolute;
+	left:242px;
+	top:50px;
+	border:2px solid #4682B4;
+	background:#fff;
+	width:860px;
+	height:1100px
+}
+
+.homepage_notice_level{ 
+	position:absolute;
+	left:1104px;
+	top:50px;
+	border:2px solid #4682B4;
+	background:#fff;
+	width:202px;
+	height:1100px
+}
+
+.homepage_copyright{ 
+	position:absolute;
+	left:0px;
+	top:1150px;
+	background:#696969;
+	width:1310px;
+	height:50px
+}
